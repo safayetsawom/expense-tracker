@@ -29,13 +29,13 @@ git clone https://github.com/safayetsawom/expense-tracker.git
 ![Add Transactions](Screenshot/add_transactions.png)
 
 ### Transactions
-![Transactions](Screenshot/transactions.png)
+![Transaction_history](Screenshot/transaction_history.png)
 
 ### Categories
 ![Categories](Screenshot/categories.png)
 
 ### Login
-![Transaction_history](Screenshot/transaction_history.png)
+![Login](Screenshot/Login.png)
 
 ### Register
 ![Register](Screenshot/register.png)
