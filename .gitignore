@@ -1,0 +1,9 @@
+includes/config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
