@@ -35,7 +35,7 @@ git clone https://github.com/safayetsawom/expense-tracker.git
 ![Categories](Screenshot/categories.png)
 
 ### Login
-![Login](Screenshot/Login.png)
+![Login](Screenshot/login.png)
 
 ### Register
 ![Register](Screenshot/register.png)
